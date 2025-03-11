@@ -2,6 +2,10 @@
 
 ## 👌 Domino:
 -  Java
+-  Express
+-  Javascript
+-  Selenium
+-  Node.js
 -  Orientação a Objetos
 -  JUnit 5
 -  Git e GitHub
