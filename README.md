@@ -12,7 +12,7 @@
 -  Typescript
 
 ## 🌱 Atualmente estou aprendendo:
-- Testes com cypress
+- Microsserviços
 
 ## 💬 Pergunte-me sobre:
  - Git e GitHub
