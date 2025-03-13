@@ -2,7 +2,7 @@
 
 ## 👌 Domino:
 -  Java
--  Express
+-  Express.js
 -  Javascript
 -  Selenium
 -  Node.js
