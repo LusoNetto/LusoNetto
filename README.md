@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋,me Chamo Luciano Augusto da Silva Junior 🚀</h1>
+<h1 align="center">Olá 👋,me Chamo Luso Netto 🚀</h1>
 
 ## 👌 Domino:
 -  Java
