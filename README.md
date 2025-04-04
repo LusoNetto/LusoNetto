@@ -19,3 +19,7 @@
  - Java
  - Orientação a Objetos
  - TDD
+
+ ## Certificações:
+ - Javascript Entry Level
+ - Javascript Associate Level
